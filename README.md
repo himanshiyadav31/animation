@@ -277,7 +277,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Final CTA
     setTimeout(() => {
-        subtitle.innerHTML = "Physics with <b>@JuniorRobo</b>";
+        subtitle.innerHTML = "Physics with <b>@himanshi</b>";
         subtitle.style.background = "#ffde59";
         subtitle.style.color = "#000";
         subtitle.style.opacity = '1';
